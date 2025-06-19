@@ -5,10 +5,6 @@
     <br>
     <b>Telegram MTProto API Framework for Python</b>
     <br>
-    <a href="https://kurigram.live">
-        Homepage
-    </a>
-    •
     <a href="https://docs.kurigram.live">
         Documentation
     </a>
