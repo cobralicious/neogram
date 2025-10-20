@@ -43,12 +43,6 @@ app.run()
 framework. It enables you to easily interact with the main Telegram API through a user account (custom client) or a bot
 identity (bot API alternative) using Python.
 
-### Support
-
-If you'd like to support my fork, you can consider:
-
-- `UQAyxO-8y0PW6UiavFfYDhfamxALRD9zTgrN5PhIgMMpYqG6` - TON
-- `0x8C53c8Bc164135Fe90319b12Eb49CbeF613b56AA` - USDT(Ethereum)
 
 ### Key Features
 
